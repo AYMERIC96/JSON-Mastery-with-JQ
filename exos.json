@@ -1,0 +1,32 @@
+{
+	"users": [
+  	{
+    	"id": 1,
+      "firstname": "Alice",
+      "lastname": "Martin",
+      "role": "developer",
+      "active": true
+    },
+    {
+    	"id": 2,
+      "firstname": "Bob",
+      "lastname": "Tremblay",
+      "role": "admin",
+      "active": false
+    },
+    {
+    	"id": 3,
+      "firstname": "Charlie",
+      "lastname": "Nguyen",
+      "role": "developer",
+      "active": true
+    },
+    {
+    	"id": 1,
+      "firstname": "Diana",
+      "lastname": "Roy",
+      "role": "Manager",
+      "active": true
+    }
+  ]
+}
