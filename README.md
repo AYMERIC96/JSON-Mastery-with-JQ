@@ -1,9 +1,9 @@
 # JSON Processing with jq
 
-This project is a deep dive into **jq**, a lightweight and flexible command-line JSON processor. Using a sample `token.json` file containing a list of users, we solved several data manipulation challenges commonly encountered in DevOps and System Administration tasks.
+This project is a deep dive into **jq**, a lightweight and flexible command-line JSON processor. Using a sample `exos.json` file containing a list of users, we solved several data manipulation challenges commonly encountered in DevOps and System Administration tasks.
 
 ## Data Structure
-The exercise uses a `token.json` file structured as follows:
+The exercise uses a `exos.json` file structured as follows:
 - An array of `users`.
 - Each user has an `id`, `firstname`, `lastname`, `role`, and an `active` status (boolean).
 
